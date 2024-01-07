@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<img align="right" height="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 ###
 
@@ -36,11 +36,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-</div>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="30" alt="xd logo"  />
@@ -80,16 +76,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnanaofficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gnanaofficial&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanaofficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanaofficial&area=false&theme=modern-lilac&hide_title=false&hide_border=true&custom_title=Progress&bg_color=151515&color=effefe&point=fb8c00&area_color=fb8c00&line=fb8c00" height="150" alt="activity-graph graph"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gnanaofficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=DataFigures" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=gnanaofficial&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanaofficial&locale=en&hide_title=false&layout=compact&card_width=320&border_radius=5&langs_count=8&theme=dark&hide_border=false&order=3" height="120" width = "700" alt="languages graph"  />
+  <img align="right" height="150" width= "-50" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/gnanaofficial/gnanaofficial/output/snake.svg" alt="Snake animation" />
 
 ###
 
