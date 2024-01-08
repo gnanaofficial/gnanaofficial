@@ -53,7 +53,7 @@
 ###
 
 <div align="left">
-  <a href="gnanasekharofficial@gmail.com" target="_blank">
+    <a href="mailto:gnanasekharofficial@gmail.com?subject=Connect%20with%20Me%20-%20Let%27s%20Make%20it%20Personal!&body=Hi%20there,%0A%0AThis%20email%20finds%20you%20in%20good%20health.%20I%20wanted%20to%20take%20a%20moment%20to%20thank%20you%20for%20showing%20interest%20in%20getting%20in%20touch%20with%20me.%20Your%20commitment%20is%20really%20important.%0A%0APlease%20get%20in%20touch%20if%20you%20have%20any%20queries,%20ideas,%20or%20simply%20to%20say%20hi!%20I%20always%20look%20forward%20to%20hearing%20from%20others%20who%20share%20my%20interests.%0A%0AI'm%20excited%20to%20speak%20with%20you%20shortly.%0A%0AWarm%20regards,%0A%0AGnana%20Sekhar%0A%0AFeel%20free%20to%20contact%20me%" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://api.whatsapp.com/send?phone=+15597634228" target="_blank">
