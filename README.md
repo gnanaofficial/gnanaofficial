@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<img align="right" height="230" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 ###
 
@@ -42,9 +42,12 @@
   <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
   </a>
   
-  <img src="[X]" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+ <a href="https://x.com/gnanaofficial?t=RoBKLemjEQLS4S4XoN49Tw&s=09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/gnanaofficial" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
  
 </div>
 <br>
