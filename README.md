@@ -1,8 +1,6 @@
 <h2 align="left">💫 About Me :</h2>
 
-###
 
-<br clear="both">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gnanaofficial.gnanaofficial&"  />
 
