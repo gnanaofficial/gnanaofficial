@@ -8,7 +8,7 @@
 
 
 
-
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 
 
@@ -41,11 +41,11 @@
   <a href="https://dribbble.com/sekharrrr" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  
+  <img src="[X]" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+ 
 </div>
 <br>
 <br>
@@ -104,4 +104,6 @@
   <img src="https://streak-stats.demolab.com?user=gnanaofficial&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="140" width="320" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanaofficial&locale=en&hide_title=false&layout=compact&card_width=320&border_radius=5&langs_count=8&theme=dark&hide_border=false&order=2" height="140" width="320" alt="languages graph" />
 </div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/gnanasekhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gnanasekhar" /></a><a href="https://ko-fi.com/https://ko-fi.com/gnanasekhar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/gnanasekhar" /></a></p><br><br>
 
